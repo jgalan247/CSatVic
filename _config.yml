@@ -36,7 +36,7 @@ email_address                             : j.galan@vcj.sch.je
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : 'A' Level - Algorithms and Data Structures
+  - title                                 : A Level - Algorithms and Data Structures
     description                           : A level <A href="#section-1">My Notebook</A>
     fontawesome_icon_name                 : microchip
     
