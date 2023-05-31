@@ -10,7 +10,7 @@ page_title                                : CS at Vic                           
 #presskit_download_link                    : https://emilbaehr.com                                          # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
-app_icon                                  :  assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
+#app_icon                                  :  assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :  CS at Vic                                         # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : Welcome to the Computer Science Department proud to support our students to achieve their true potential.
@@ -42,7 +42,7 @@ features                                  :
     
   - title                                 : KS3 - Microbits
     description                           : Part of your curriculum is to be expose to physical computing.
-    fontawesome_icon_name                 : person-biking-mountain
+    fontawesome_icon_name                 : bicycle
 
   - title                                 : KS4 - Learning to program with Python 
     description                           : Part of the GCSE CS specs includes learning the basics of programming. 
