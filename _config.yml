@@ -42,7 +42,7 @@ features                                  :
     
   - title                                 : iPhone Device Preview
     description                           : Preview your app in the context of an iPhone device. Five different device colors included.
-    fontawesome_icon_name                 : bycicle
+    fontawesome_icon_name                 : person-biking-mountain
 
   - title                                 : Video Support
     description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
