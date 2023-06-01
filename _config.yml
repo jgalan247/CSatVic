@@ -13,7 +13,8 @@ page_title                                : CS at Vic                           
 app_icon                                  :  assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :  CS at Vic                                         # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 #app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Welcome to the Computer Science Department proud to support our students to achieve their true potential.
+app_description                           : Welcome to the Computer Science Department. We are proud to support our students to achieve their true potential using theory and practise.
+app_mytears                               : Computer Science without tears...
 app_favicon                               : assets/faviconVic.png
 enable_smart_app_banner                   : false                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
