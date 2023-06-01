@@ -38,15 +38,15 @@ email_address                             : j.galan@vcj.sch.je
 features                                  :
 
   - title                                 : A Level - Algorithms and Data Structures
-    description                           : A level <A href="#section-1">My Notebook</A>
+    description                           : All you wanted to know and were afraid to ask. A level <A href="#section-1">My Notebook</A>
     fontawesome_icon_name                 : microchip
     
   - title                                 : KS3 - Microbits
-    description                           : Part of your curriculum is to be expose to physical computing.
+    description                           : Disclaimer: You life will change after learning the power of the Micorbit. There is no coming back.
     fontawesome_icon_name                 : bicycle
 
-  - title                                 : KS4 - Learning to program with Python 
-    description                           : Part of the GCSE CS specs includes learning the basics of programming. 
+  - title                                 : KS4 - Python me, S1:E1: The power of coding.
+    description                           : In this season, Python gives up all its secrets. Nobody gets hurt.
     fontawesome_icon_name                 : cogs
 
   - title                                 : Automatic Icon and Metadata
